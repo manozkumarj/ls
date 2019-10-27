@@ -1,0 +1,10 @@
+* https://www.youtube.com/watch?v=Q33KBiDriJY
+* https://www.udemy.com/course/the-complete-junior-to-senior-web-developer-roadmap/?couponCode=PART22873
+* https://www.udemy.com/the-complete-web-developer-zero-to-mastery/?couponCode=JUMPBACK2018
+* https://freetutorials.se/learn-javascript-full-stack-from-scratch/ 
+* https://freetutorials.se/all-in-one-angular-react-node-course-airbnb-style-app/ 
+* https://freetutorials.se/the-complete-2019-web-development-bootcamp-1/
+* https://www.freecoursesonline.me/coursera-server-side-development-with-nodejs-express-and-mongodb/ 
+* https://www.youtube.com/watch?v=ZwFA3YMfkoc  (Build and Deploy a Realtime Chat Application - Socket.io, Node.js, and React.js)
+* https://www.youtube.com/watch?v=BYRZeEBS5Cs
+* 

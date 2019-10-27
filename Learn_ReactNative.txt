@@ -1,0 +1,4 @@
+* https://freetutorials.se/react-native-the-practical-guide-2/
+* https://www.freecoursesonline.me/skillshare-build-the-original-instagram-with-react-native-firebase/ 
+* https://freetutorials.se/react-native-design-build-front-end-of-10-mobile-apps/ 
+* 
