@@ -1,3 +1,4 @@
+* https://www.youtube.com/watch?v=eGBgmcG7HqI  (How To Setup Python In Visual Studio Code)
 * https://www.youtube.com/watch?v=QXeEoD0pB3E&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3
 * https://www.youtube.com/watch?v=JT80XhYJdBw
 * https://www.youtube.com/watch?v=e1IyzVyrLSU  
