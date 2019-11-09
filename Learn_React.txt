@@ -8,7 +8,8 @@
 * https://www.youtube.com/watch?v=m_u6P5k0vP0
 * https://www.youtube.com/watch?v=cF2lQ_gZeA8&list=PLC3y8-rFHvwisvxhZ135pogtX7_Oe3Q3A
 * https://freetutorials.se/the-complete-react-developer-course-w-hooks-and-redux/
-* 
+* https://www.freetutorialsus.com/complete-react-developer-in-2019-w-redux-hooks-graphql-udemy-course-free-download/
+* 
 
 
 
