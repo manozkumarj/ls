@@ -1,3 +1,6 @@
+* Refer to below link for "plain" "Mysql with NodeJS" using process
+https://www.sitepoint.com/using-node-mysql-javascript-client/
+
 * https://www.youtube.com/watch?v=IPQoMiu6zTI
 * https://www.udemy.com/course/intro-to-mysql-with-nodejs-and-javascript/ 
 * https://www.youtube.com/watch?v=QK3oZlaMgRQ&list=PLRfmxUfYVUp1ShQifYvvrRZKMxCPr00kd&index=1 
