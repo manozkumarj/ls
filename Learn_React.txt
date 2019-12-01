@@ -1,4 +1,9 @@
 * https://www.youtube.com/watch?v=NCwa_xi0Uuc
+* MEARN by MAX
+	-> https://www.youtube.com/watch?v=2yddJwL1Tpg
+
+* React Hoos
+	-> https://www.youtube.com/watch?v=cBM5xXyekmM
 * https://www.youtube.com/watch?v=Ke90Tje7VS0
 * https://www.freetutorialsus.com/react-front-to-back-2019-udemy-course-free-download/
 * https://www.freetutorialseu.com/react-node-fullstack-social-network-from-scratch-to-deploy-udemy-course-free-download/
