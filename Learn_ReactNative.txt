@@ -2,3 +2,7 @@
 * https://www.freecoursesonline.me/skillshare-build-the-original-instagram-with-react-native-firebase/ 
 *** https://freetutorials.se/react-native-design-build-front-end-of-10-mobile-apps/ ***
 * https://www.youtube.com/watch?v=qSRrxpdMpVc  (6 Hours)
+* Tinder UI Clone Swipe Deck Animation Tutorial
+	-> https://www.youtube.com/watch?v=MDAdY2LkP_U&list=PLy9JCsy2u97ksUNgcXFYXZiuxSkkxQC5F
+* React native login, signup and navigation example
+	-> https://www.youtube.com/watch?v=_K41vd_W2qE
