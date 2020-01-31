@@ -14,9 +14,10 @@
 * https://www.youtube.com/watch?v=cF2lQ_gZeA8&list=PLC3y8-rFHvwisvxhZ135pogtX7_Oe3Q3A
 * https://freetutorials.se/the-complete-react-developer-course-w-hooks-and-redux/
 * https://www.freetutorialsus.com/complete-react-developer-in-2019-w-redux-hooks-graphql-udemy-course-free-download/
-* 
 
+* 44 videos - The Net Ninja -> https://www.youtube.com/watch?v=OxIDLw0M-m0&list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG
 
+* 21 videos - React Context & Hooks Tutorial - The Net Ninja -> https://www.youtube.com/watch?v=6RhOzQciVwI&list=PL4cUxeGkcC9hNokByJilPg5g9m2APUePI
 
 
 PWA:
