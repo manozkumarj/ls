@@ -1,0 +1,7 @@
+* https://www.youtube.com/watch?v=PeAOEAmR0D0  --> Very Nice Explanation
+* https://www.youtube.com/watch?v=ZQL7tL2S0oQ --> Nice Explanation
+* https://www.youtube.com/watch?v=Y0lDGjwRYKw&list=PL4cUxeGkcC9iK6Qhn-QLcXCXPQUov1U7f  --> GraphQL Tutorial - The Net Ninja - 36 Videos
+
+* Build a Complete App with GraphQL, Node.js, MongoDB and React.js - Max - 23 V -> https://www.youtube.com/watch?v=7giZGFDGnkc&list=PL55RiY5tL51rG1x02Yyj93iypUuHYXcB_
+
+* https://www.youtube.com/watch?v=SEMTj8w04Z8  --> Traversy Media 
