@@ -10,3 +10,7 @@
 * https://aboutreact.com/react-native-http-networking/
 
 * https://medium.com/the-guild/whatsapp-clone-using-react-hooks-suspense-graphql-apollo-typescript-and-postgresql-de1840c27d21
+
+* S01E13 - Plant App - React Native - 4H 24M - https://www.youtube.com/watch?v=gyiwFcrVRCM
+
+* React Native Tutorial for Beginners - The Net Ninja 35 ->  https://www.youtube.com/watch?v=ur6I5m2nTvk&list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ
