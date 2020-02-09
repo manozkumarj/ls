@@ -1,4 +1,7 @@
 * https://www.freecoursesonline.me/teamtreehouse-how-the-web-works/
 * https://www.youtube.com/watch?v=T4Df5_cojAs  (How does HTTPS work? What's a CA? What's a self-signed 		Certificate?)
 * https://www.youtube.com/watch?v=hExRDVZHhig  (SSL, TLS, HTTP, HTTPS Explained)
+
+* https://www.youtube.com/watch?v=UjCDWCeHCzY (What is a Server? Servers vs Desktops Explained)
+
 * 
