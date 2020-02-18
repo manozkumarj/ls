@@ -21,6 +21,10 @@
 
 * 21 videos - React Context & Hooks Tutorial - The Net Ninja -> https://www.youtube.com/watch?v=6RhOzQciVwI&list=PL4cUxeGkcC9hNokByJilPg5g9m2APUePI
 
+* 6 React App projects - https://www.youtube.com/watch?v=xuSoqDEkH90&list=PLnHJACx3NwAe5XQDk9xLgym7FF8Q4FYW7&index=1
+
+* Music App in ReactJS - https://www.youtube.com/watch?v=M_1ZCab5x0w
+
 
 PWA:
 -------------------------------------------------------------------------------------------
