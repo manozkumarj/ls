@@ -11,4 +11,12 @@
 * https://www.youtube.com/watch?v=ZwFA3YMfkoc  (Build and Deploy a Realtime Chat Application - Socket.io, Node.js, and React.js)
 * https://www.youtube.com/watch?v=BYRZeEBS5Cs
 * https://www.youtube.com/watch?v=drzPc6TrORM (How To Make A Website Using HTML And CSS With 3D Effect Scrolling | Complete Website Design)
+
+* https://www.youtube.com/watch?v=C5QFHp1oAws (Free Course: Beginner Web Design using HTML5, CSS3 & Visual Studio Code - 4 Hrs)
+
+* https://www.youtube.com/watch?v=HV7DtH3J2PU (Animated Login Form Using Only HTML & CSS)
+
+* https://www.youtube.com/watch?v=F4kJXbaunUg (Awesome UI Interactions with the CSS Clip Path Property)
+
 * 
+

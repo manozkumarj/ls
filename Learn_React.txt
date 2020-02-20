@@ -25,6 +25,12 @@
 
 * Music App in ReactJS - https://www.youtube.com/watch?v=M_1ZCab5x0w
 
+* React Tutorial: Build an e-commerce site from scratch using React and Netlify - https://www.youtube.com/watch?v=wPQ1-33teR4
+
+* MERN STACK PROJECT - ONLINE SHOP CLONE (SOURCE CODE INCLUDED) - https://www.youtube.com/watch?v=zaWtIkJgah4
+
+
+
 
 PWA:
 -------------------------------------------------------------------------------------------
