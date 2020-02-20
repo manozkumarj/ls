@@ -1,2 +1,4 @@
 * https://www.youtube.com/watch?v=L5WWrGMsnpw
 * https://www.youtube.com/watch?v=HV7DtH3J2PU - Animated Login Form Using Only HTML & CSS
+* https://www.youtube.com/watch?v=sjrp1FEHnyA - Responsive Pure CSS Menu Tutorial (No Javascript)
+* 
