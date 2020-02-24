@@ -1,4 +1,6 @@
 * https://www.youtube.com/watch?v=L5WWrGMsnpw
 * https://www.youtube.com/watch?v=HV7DtH3J2PU - Animated Login Form Using Only HTML & CSS
 * https://www.youtube.com/watch?v=sjrp1FEHnyA - Responsive Pure CSS Menu Tutorial (No Javascript)
+* https://www.youtube.com/watch?v=slu3pImFcRI - How To Create Login Form In HTML and CSS | Make Sign In Form Design
+* https://www.youtube.com/watch?v=X8tx0cgPWnc - Scroll Down to Popout Video on Bottom | HTML CSS & Javascript - Like youtube
 * 
