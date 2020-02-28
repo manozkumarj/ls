@@ -3,4 +3,5 @@
 * https://www.youtube.com/watch?v=sjrp1FEHnyA - Responsive Pure CSS Menu Tutorial (No Javascript)
 * https://www.youtube.com/watch?v=slu3pImFcRI - How To Create Login Form In HTML and CSS | Make Sign In Form Design
 * https://www.youtube.com/watch?v=X8tx0cgPWnc - Scroll Down to Popout Video on Bottom | HTML CSS & Javascript - Like youtube
+* https://www.youtube.com/watch?v=kAGkAJDLYGY - Top 10 Stunning CSS 3 Effects For Navigation Bar
 * 
