@@ -4,6 +4,8 @@
 * https://freetutorials.se/node-js-for-beginners-become-a-node-js-developer-project-12/ 
 * https://www.youtube.com/watch?v=JnvKXcSI7yk  --> Edureka 7 Hrs
 
+* https://www.youtube.com/watch?v=xn9ef5pod18 --> Node.js MySQL Tutorial | Building CRUD App with Node.js Express and MySQL | Edureka
+
 
 -> Send SMS Text Messages From Node.js
  https://www.youtube.com/watch?v=980wnspXLe0

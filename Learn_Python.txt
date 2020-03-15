@@ -8,4 +8,7 @@
 * https://freetutorials.se/full-stack-dev-web-mobile-back-end-api-angular-django/ 
 * https://freetutorials.se/complete-python-masterclass-11/
 * https://freetutorials.se/build-a-python-rest-api-with-the-django-rest-framework/
+
+* https://www.youtube.com/watch?v=-6RqxhNO2yY --> Python For Data Science Full Course - 9 Hours | Data Science with Python | Python Training | Edureka
+
 * 
