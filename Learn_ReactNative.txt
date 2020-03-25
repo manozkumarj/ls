@@ -14,3 +14,7 @@
 * S01E13 - Plant App - React Native - 4H 24M - https://www.youtube.com/watch?v=gyiwFcrVRCM
 
 * React Native Tutorial for Beginners - The Net Ninja 35 ->  https://www.youtube.com/watch?v=ur6I5m2nTvk&list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ
+
+* https://www.youtube.com/watch?v=I5VRByQ-su4  --> React Native: Beautiful Responsive UI - Loadscreen & Splash Screen
+
+* 

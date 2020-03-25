@@ -15,6 +15,8 @@
 
 * https://www.youtube.com/watch?v=EQStBJU5AZM - Drop-down Menu with submenu using HTML & CSS
 
+* https://www.youtube.com/watch?v=5ZEqwRepZao - Card with 3D Hover Effect | HTML CSS & Javascript *
+
 * 
 
 
