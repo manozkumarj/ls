@@ -6,6 +6,8 @@
 
 * https://www.youtube.com/watch?v=iogabydg2y0 --> Web Development Roadmap 2020 {Start Now!}
 
+* https://www.youtube.com/watch?v=RsQ1tFLwldY --> Basic concepts of web applications, how they work and the HTTP protocol
+
 * 
 
 

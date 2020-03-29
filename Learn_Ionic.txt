@@ -1,3 +1,5 @@
 * Ionic & PHP
 	-> https://www.youtube.com/watch?v=kH9NzxR-5B0&list=PLZ18_PbzMCcizoMi1KNDFClsxgAwxFWup
+* Ionic + React - Tutorial for Beginners 2020 - 3 Hrs - Max
+	-> https://www.youtube.com/watch?v=_03VKmdrxV8
 * 
