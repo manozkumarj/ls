@@ -3,3 +3,8 @@
 * https://freetutorials.se/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert-2/ 
 * https://www.youtube.com/watch?v=3Axp3VDnf0I 
 * 
+
+
+
+Download MySQL Query browser:
+* https://downloads.mysql.com/archives/gui/

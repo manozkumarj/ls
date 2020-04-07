@@ -23,6 +23,8 @@
 
 * https://www.youtube.com/watch?v=pGW3IE1-Ffg - Image Card Hover Animation with HTML CSS & Javascript
 
+* https://www.youtube.com/watch?v=-FLzc77MstY - Fully Responsive Navbar with Search Box | HTML & CSS
+
 * 
 
 
