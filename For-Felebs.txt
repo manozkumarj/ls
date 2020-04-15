@@ -1,3 +1,9 @@
+* https://www.youtube.com/watch?v=XeiOnkEI7XI --> React Image Upload Made Easy
+* https://www.youtube.com/watch?v=0TTa5Ulmgds --> ReactJS 2018 - Uploading Files with Axios and FormData
+* 
+
+
+
 * https://www.youtube.com/watch?v=iD8N6cxyffw --> Drawer menu screen transitions using react-navigation v5 - React Native
 
 * https://www.youtube.com/watch?v=U_gANjtv28g --> 7 Amazing Developer Tools that you're not using yet
