@@ -1,0 +1,3 @@
+* https://www.youtube.com/watch?v=4d-gIPGzmK4&list=PL4cUxeGkcC9itfjle0ji1xOZ2cjRGY_WB (Firebase Firestore Tutorial #1 - Introduction - 10 videos)
+* https://www.youtube.com/watch?v=aN1LnNq4z54&list=PL4cUxeGkcC9jUPIes_B8vRjn1_GaplOPQ (Firebase Authentication Tutorial #1 - Introduction - 24 videos)
+* 

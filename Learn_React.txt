@@ -2,7 +2,7 @@
 * MEARN by MAX
 	-> https://www.youtube.com/watch?v=2yddJwL1Tpg
 
-* React Hoos
+* React Hooks
 	-> https://www.youtube.com/watch?v=cBM5xXyekmM
 * https://www.youtube.com/watch?v=Ke90Tje7VS0
 * https://www.freetutorialsus.com/react-front-to-back-2019-udemy-course-free-download/
@@ -28,6 +28,10 @@
 * React Tutorial: Build an e-commerce site from scratch using React and Netlify - https://www.youtube.com/watch?v=wPQ1-33teR4
 
 * MERN STACK PROJECT - ONLINE SHOP CLONE (SOURCE CODE INCLUDED) - https://www.youtube.com/watch?v=zaWtIkJgah4
+
+* React Redux Tutorials - 29 videos - https://www.youtube.com/watch?v=9boMnm5X9ak&list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK
+
+* http://react-component.github.io/dialog/examples/bootstrap.html
 
 
 

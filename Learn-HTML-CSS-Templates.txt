@@ -33,8 +33,15 @@
 
 * https://www.youtube.com/watch?v=0v7DYB1lyL8 - Awesome To-Do List using HTML CSS & Javascript
 
-* 
+*** https://www.youtube.com/watch?v=oLgtucwjVII - Responsive Navigation Menu Bar using HTML & CSS from side
 
+*** https://www.youtube.com/watch?v=gmYwbEmziTo - Responsive Pure CSS Menu Tutorial (No Javascript)
+
+* https://codepen.io/mblode/pen/evjfn - Hamburger Menu animations
+
+* https://www.youtube.com/watch?v=W4fQnBlwoWA - Custom Animated Modal Box using HTML CSS & Javascript
+
+* 
 
 
 

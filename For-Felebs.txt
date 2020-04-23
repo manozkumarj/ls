@@ -1,3 +1,6 @@
+* https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_navbar_hide_scroll
+
+
 * https://www.youtube.com/watch?v=XeiOnkEI7XI --> React Image Upload Made Easy
 * https://www.youtube.com/watch?v=0TTa5Ulmgds --> ReactJS 2018 - Uploading Files with Axios and FormData
 * 
