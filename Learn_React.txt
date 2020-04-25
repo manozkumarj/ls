@@ -1,3 +1,5 @@
+* https://www.youtube.com/watch?v=xa-_FIy2NgE  -- 6 Pro Tips from React Developers
+
 * https://www.youtube.com/watch?v=NCwa_xi0Uuc
 * MEARN by MAX
 	-> https://www.youtube.com/watch?v=2yddJwL1Tpg
@@ -30,6 +32,8 @@
 * MERN STACK PROJECT - ONLINE SHOP CLONE (SOURCE CODE INCLUDED) - https://www.youtube.com/watch?v=zaWtIkJgah4
 
 * React Redux Tutorials - 29 videos - https://www.youtube.com/watch?v=9boMnm5X9ak&list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK
+
+* Build a YouTube Clone Application Using React - https://www.youtube.com/watch?v=VPVzx1ZOVuw
 
 * http://react-component.github.io/dialog/examples/bootstrap.html
 

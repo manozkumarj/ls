@@ -41,6 +41,10 @@
 
 * https://www.youtube.com/watch?v=W4fQnBlwoWA - Custom Animated Modal Box using HTML CSS & Javascript
 
+* https://www.youtube.com/watch?v=_wBVNaREgSo - Accordion Menu Using Only HTML & CSS (2020)
+
+* https://www.youtube.com/watch?v=txP82s1akoE - Cool Glowing Effect on Buttons using HTML & CSS
+
 * 
 
 
