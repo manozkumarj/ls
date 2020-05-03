@@ -7,6 +7,8 @@
 * https://www.youtube.com/watch?v=yK_vRQ2ICg4 - Password Show Hide Button with HTML CSS & Javascript
 * https://www.youtube.com/watch?v=m9VPioROF6Q - How To Make Team Section Design Using HTML And CSS | Website Design Tutorial Step by Step -- Felebs
 
+* https://www.youtube.com/watch?v=GAZVvpjxYQY - HTML And CSS Tutorial For Beginners | Complete HTML & CSS Course In One Tutorial - 2.4 Hours
+
 * https://www.youtube.com/watch?v=1NC8G_zWDJY - Responsive Dropdown Menu Bar with HTML & CSS ***
 
 * https://www.youtube.com/watch?v=zmun7JzWGPE - How To Make Complete Website Using HTML And CSS | Responsive Website Tutorial

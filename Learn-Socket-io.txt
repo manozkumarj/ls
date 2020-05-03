@@ -1,6 +1,6 @@
 * https://www.youtube.com/watch?v=ZwFA3YMfkoc (Build and Deploy a Realtime Chat Application - Socket.io, Node.js, and React.js)
 
+* https://www.youtube.com/watch?v=vQjiN8Qgs3c&list=PL4cUxeGkcC9i4V-_ZVwLmOusj8YAUhj_9 (WebSockets (using Socket.io) - 5 Videos - Net Ninja)
+
 * 
-
-
 

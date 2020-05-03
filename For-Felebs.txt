@@ -11,6 +11,14 @@
 
 * https://www.youtube.com/watch?v=U_gANjtv28g --> 7 Amazing Developer Tools that you're not using yet
 
+* https://www.freepngimg.com/  --> For free emojis
+
+* https://www.youtube.com/watch?v=T98ZKsQGfoE --> CSS Card UI Design with hover effect
+
+* https://css-tricks.com/the-shapes-of-css/  --> Arrow shapes with pure CSS
+
+* https://www.cloudflare.com/en-in/  --> For CDN
+
+* https://stackoverflow.com/questions/17772260/textarea-auto-height
+
 * 
-
-
