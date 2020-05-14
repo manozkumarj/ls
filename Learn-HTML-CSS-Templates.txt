@@ -47,6 +47,10 @@
 
 * https://www.youtube.com/watch?v=txP82s1akoE - Cool Glowing Effect on Buttons using HTML & CSS
 
+* https://www.youtube.com/watch?v=6XG9Z1oQ6jI - Copy Text to Clipboard Button in HTML CSS & Javascript
+
+* https://www.youtube.com/watch?v=7HdARY29D_k - Animated Profile Card Design in HTML & CSS
+
 * 
 
 

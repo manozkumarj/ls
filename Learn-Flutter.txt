@@ -1,2 +1,5 @@
 * Flutter Crash Course for Beginners 2020 - Build a Flutter App with Google's Flutter & Dart  - https://www.youtube.com/watch?v=x0uinJvhNxI
+
+* https://www.youtube.com/watch?v=h-igXZCCrrc - Flutter Chat UI Tutorial | Apps From Scratch
+* https://www.youtube.com/watch?v=1gDhl4leEzA - Flutter Crash Course
 * 
