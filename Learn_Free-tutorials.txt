@@ -7,4 +7,5 @@
 * https://freetutorials.se/mongodb-the-complete-developers-guide/ 
 * https://freetutorials.se/complete-python-bootcamp-go-from-zero-to-hero-in-python-3-3/ 
 * https://freetutorials.se/all-in-one-angular-react-node-course-airbnb-style-app/ 
+* https://www.freetutorialsus.com/mern-stack-master-course-building-your-own-instagram-free-download/
 * 
