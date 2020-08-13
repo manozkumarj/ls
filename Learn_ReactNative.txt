@@ -26,16 +26,24 @@
 * React Native #1 (41 videos)  -> https://www.youtube.com/watch?v=mrjy92pW0kM&list=PLyF8V4xT7-15c7NWNssGWTYCVwHiZFye9
 
 
-
---------------------------------- To be downloaded for My-Pro use ---------------------------------
 * Facebook animated header ->  https://www.youtube.com/watch?v=y8Jy2vxXVFw
 * Facebook UI - SearchBar ->  https://www.youtube.com/watch?v=yzkTDFErTec
 * React native Chat UI - Message Bubble -> https://www.youtube.com/watch?v=KI3uOGH-PO0
-* https://www.youtube.com/watch?v=o8nXw_E6hlY -> https://www.youtube.com/watch?v=o8nXw_E6hlY
+* React native onScroll animation - Facebook UI Stories list -> https://www.youtube.com/watch?v=o8nXw_E6hlY
 
 * https://www.youtube.com/watch?v=a9jSyZXYGn8&list=PLQWFhX-gwJbmmqcP-9zMXBaxQbGKfIJY2
 * https://www.youtube.com/watch?v=4VKynwqAMp0&list=PLy9JCsy2u97mGklzG1Ynbe-f-5Fq8FVpi
-* https://www.youtube.com/watch?v=cgg1HidN4mQ&list=PLy9JCsy2u97lNUL3e3R-uoMQv5GDvf22T
 * https://www.youtube.com/watch?v=LP6zmnMcHR0&list=PLy9JCsy2u97npFZ8wylvgHcfB36qkmGmN
 * https://www.youtube.com/watch?v=6XJhgeuUszQ&list=PLy9JCsy2u97kCLmFN7sPW2eBTDs2t80M1
+
+
+
+----------------------------------- Useful youtube channels ---------------------------------------
+* https://www.youtube.com/channel/UCEtQ1zqESStFBQUo0sdnNEw
+* 
+
+--------------------------------- To be downloaded for My-Pro use ---------------------------------
+* https://www.youtube.com/watch?v=cgg1HidN4mQ&list=PLy9JCsy2u97lNUL3e3R-uoMQv5GDvf22T
+* #0: Kickstart - React Native Animations -- 18 videos --> https://www.youtube.com/watch?v=dXVgb3igGJ4&list=PLYxzS__5yYQmdfEyKDrlG5E0F0u7_iIUo
+* How To Create WhatsApp UI Clone In React Native? | Part 1  --> https://www.youtube.com/watch?v=cHk5Rizms5U&list=PLOrIp4IaHcFM9Jo5vDT98cOOGLoMHyjJh&index=1
 * 

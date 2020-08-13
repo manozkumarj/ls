@@ -55,6 +55,8 @@
 
 * https://www.youtube.com/watch?v=qGzJtVbXPhY - Email Validation Check in HTML CSS & JavaScript
 
+* https://www.youtube.com/watch?v=A0NNmC3bazI - Advanced Drop-down Menu Animation like Facebook using HTML CSS & JavaScript
+
 * 
 
 
