@@ -1,3 +1,4 @@
+* Flutter Tutorial for Beginners - The Net Ninja 35 videos --> https://www.youtube.com/watch?v=1ukSR1GRtMU&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ&index=1
 * Flutter Crash Course for Beginners 2020 - Build a Flutter App with Google's Flutter & Dart  - https://www.youtube.com/watch?v=x0uinJvhNxI
 
 * https://www.youtube.com/watch?v=h-igXZCCrrc - Flutter Chat UI Tutorial | Apps From Scratch

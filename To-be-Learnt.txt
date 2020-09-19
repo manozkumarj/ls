@@ -1,0 +1,28 @@
+************************** Topics ********************************************************
+* Javascript OOPS
+* Microservices
+* Docker
+* kubernetes
+* NGinX
+* MongoDB with Node including 'aggregate' methods
+* Clusters in Node JS
+* Python & Django Framework
+* Angular Testing
+* React Testing
+* Socket.io
+
+
+
+
+
+
+* ngRok
+************************** Links ********************************************************
+
+
+
+
+
+
+
+

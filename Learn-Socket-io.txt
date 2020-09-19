@@ -2,5 +2,8 @@
 
 * https://www.youtube.com/watch?v=vQjiN8Qgs3c&list=PL4cUxeGkcC9i4V-_ZVwLmOusj8YAUhj_9 (WebSockets (using Socket.io) - 5 Videos - Net Ninja)
 
-* 
+* https://www.youtube.com/watch?v=oTTOyiwTO2Y&list=PLrwNNiB6YOA1a0_xXvogmvSHrLcanVKkF --> (Node JS - Socket.IO - Sneak Peek - 10 videos)
 
+* https://www.youtube.com/watch?v=SYP54qp4aMM&list=PL9a7QRYt5fqlDRSRZCtqhVCg_r5U9idbF --> (Build A Chat App( Text, Video, Image) 1 (React JS, MongoDB , Redux, Socket Io ) -- 3 videos)
+
+* https://drive.google.com/uc?export=download&id=1GE1G0464lzKKk2FaCxH7L1fguZpjU7DC
