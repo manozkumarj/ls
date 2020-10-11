@@ -4,4 +4,16 @@
 * https://www.youtube.com/watch?v=Ej_Pcr4uC2Q --> Dart Programming Tutorial - Full Course
 * https://www.youtube.com/watch?v=h-igXZCCrrc - Flutter Chat UI Tutorial | Apps From Scratch
 * https://www.youtube.com/watch?v=1gDhl4leEzA - Flutter Crash Course
+* https://www.youtube.com/watch?v=aaGcER1uUoE --> Build a Flutter News App with NewsApi Org | Flutter Tutorial For Beginners
+
+* https://www.youtube.com/watch?v=oExw0U4U_UI --> Sidebar Animation & Navigation | Flutter UI
+* https://www.youtube.com/watch?v=qeeiDuRihyE --> Flutter Bottom Navigation Bar | Animated Navigation Bar | Curved Navigation Bar Example
+* https://www.youtube.com/watch?v=id-n58eqg8Y --> Flutter - Custom Bottom Navigation Bar Design
+* https://www.youtube.com/watch?v=EDb3x1SwzbI --> Dating App | Flutter UI
+* Flutter Chat UI Tutorial | Apps From Scratch
+https://www.youtube.com/watch?v=h-igXZCCrrc
+
+* Flutter Travel UI Tutorial | Apps From Scratch
+https://www.youtube.com/watch?v=CSa6Ocyog4U
+
 * 

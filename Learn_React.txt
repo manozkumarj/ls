@@ -37,7 +37,11 @@
 
 * http://react-component.github.io/dialog/examples/bootstrap.html
 
+* https://www.youtube.com/watch?v=x_EEwGe-a9o --> Building a Netflix Clone - React Tutorial - Styled Components - Firebase (Firestore & Auth)
 
+* https://www.youtube.com/watch?v=-cMqr9HpZ-Y --> React JS Tutorial for Beginners - Full Course in 12 Hours [2021]
+
+* 
 
 
 PWA:
