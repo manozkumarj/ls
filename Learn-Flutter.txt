@@ -16,4 +16,13 @@ https://www.youtube.com/watch?v=h-igXZCCrrc
 * Flutter Travel UI Tutorial | Apps From Scratch
 https://www.youtube.com/watch?v=CSa6Ocyog4U
 
+*** https://www.youtube.com/watch?v=LN668OAUrK4&list=RDCMUCJm7i4g4z7ZGcJA_HKHLCVw&index=1 --> Mix - The Flutter Way - below videos comes under this
+* https://www.youtube.com/watch?v=LN668OAUrK4 --> Plant App - Flutter UI - Speed Code
+* https://www.youtube.com/watch?v=XBKzpTz65Io --> Online Shop App - Flutter UI - Speed Code
+* https://www.youtube.com/watch?v=F0ujC60wHwc --> Online Food Ordering App - Flutter UI - Speed Code
+* https://www.youtube.com/watch?v=qQ75cxc5q8o --> Daily Exercises App - Flutter UI - Speed Code
+* https://www.youtube.com/watch?v=ExKYjqgswJg --> Welcome, Login, Signup Page - Flutter UI - Speed Code
 * 
+
+* https://www.youtube.com/watch?v=T2xT0ZB3iaY&list=RDCMUCl6DxakCjDR5AfRwWhWNbMg&start_radio=1 --> Playlist
+* https://www.youtube.com/watch?v=N5Cqyq3z5Jk --> Voice Call or Group Call - Flutter UI - Speed Code
