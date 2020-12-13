@@ -1,3 +1,5 @@
 * https://www.youtube.com/watch?v=lmXZLFXLcc0&list=PLZjjdd9-SJS2ZvI4ct5Qtkje_Vdb5O_KM&index=1 --> Hindi playlist with 23 videos
 * https://www.youtube.com/watch?v=n47Y5-hSFSs&list=PLB97yPrFwo5jmtx3ClYFHvMLUMyx9qfnV --> E-commerce website using Next js in Hindi 23 videos
+* https://www.youtube.com/watch?v=tt3PUvhOVzo --> Learn Next.js in One Video - Fundamentals of Next.js
+* https://www.youtube.com/watch?v=v8o9iJU5hEA --> Full Project-based Tutorial - React + Next.js
 * 

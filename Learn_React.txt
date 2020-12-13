@@ -41,6 +41,10 @@
 
 * https://www.youtube.com/watch?v=-cMqr9HpZ-Y --> React JS Tutorial for Beginners - Full Course in 12 Hours [2021]
 
+* https://www.youtube.com/watch?v=ngc9gnGgUdA --> Full Stack MERN Project - Build and Deploy an App | React + Redux, Node, Express, MongoDB [Part 1/2]
+
+* https://www.youtube.com/watch?v=ly3m6mv5qvg --> React Projects
+
 * 
 
 
