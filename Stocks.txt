@@ -1,31 +1,41 @@
 
-************************************ Stocks I bought ******************************************************
-* ITC = 100
-* Tata Power = 100
-* Future retail = 100
-* Yes bank = 250
-* Bombay Dyeing and Manufacturing Company = 125
-* Tata Motors = 100
-* Morarka Finance Ord Shs = 100
-* Pudumjee Paper Products Ltd = 100
-* TV18 Broadcast Ltd = 100
-* Take Solutions Ltd = 100
-* LT foods = 100
-* Sail = 100
-* Firstsource Solutions Ltd = 100
-* Bank of Baroda Ltd = 100
-* ONGC = 100
-* Kriti Nutrients = 100
-* Confidence Petroleum India Ltd = 100
-* Vodafone Idea Ltd = 250
-* Eihotel = 75
-* PNB = 100
-* Coal India = 70
-* Jyothy labs limited = 60
-* Talbros auto = 50
+
+************************************ Next targeted stocks ******************************************************
+* Hindalco = Should buy 100 shares
+* Ashok Leyland Ltd = Should buy 100 shares
+* Borosil = Should buy 100 shares
+* Affle India = Should buy 20 shares
+* 
+
+************************************ Stocks I wanna buy next surely ******************************************************
+* Affle India
+* Titan
+* Tata consumer products
+* Tata Elxsi
+* Tata steel
+* IndusInd
+* PVR
+* Inox Leisure
+* Tata communications
+
+
+* GAIL
+* HCL
+* Ircon International
+* BPCL
+* SBI
+* SBI cards
+* NTPC
+* IRCTC
+* Container Corporation
+* Neogen Chemicals
+* Lupin
+* Kajaria ceramics
+* HPCL
 
 
 ************************************ Stocks I wanna buy & hold ******************************************************
+* IIFL wealth management
 * Finolex Cables Ltd = 37000
 * Relaxo Footwears Ltd = 30000
 * KMC Speciality Hospitals India Ltd = 10000
@@ -33,6 +43,8 @@
 * Butterfly Gandhimathi Appliances Ltd
 * ARVIND FASHIONS LTD
 * Arvind Limited
+* Savita oil tech
+
 
 
 * Spice Jet
@@ -41,20 +53,20 @@
 * onmobile = 125
 * Cipla
 
+* GAIL
+* BHEL
+* Greenply Industries Ltd.
+
 Redington
 Ucal fuel
 Mstc
 Lincoln pharma
-Federal bank
 Pidilite
 Ashok leyland
-Coal india
 Vedanta
 Zee entertainment
 
-Ujjivan small finance bank - 35.30
 Alkyl
-Dixon - 
 Astral pipes - 1960
 Maruti suzuki
 Hero motocorp
@@ -64,12 +76,9 @@ Anant raj limited
 Wockhardt
 Tata communications
 Indiabulls real estate
-Ncc
-Indian hotels
 Ncl industries
 Butterfly gandhimathi
 Marksans pharma
-Rail vikas nigam
 Shriram transport fin corp
 Shriram city union finance
 Tata elxsi
@@ -78,18 +87,56 @@ Sun pharma
 Kotak Mahindra bank
 
 
+
+Divis labs
+Tata consumer products
+Indiamart
+Central depository
+Larsen & toubro limited
+Gail India
+Petronet LNG
+Tata steel
+LIC housing Finance
+MOIL
+NMDC
+Sonata software
+Union bank of India
+Uco bank
+Bank of Maharashtra
+Arrow green tech
+Subex
+Ambuja cement
+BHEL
+Genus power infra
+L&t technology services
+Tata elxsi
+IEX
+CAMS
+CDSL
+Biocon
+Laurus labs
+Birlasoft
+Tata consumer products
+Appollo tyres
+TCS
+Hindustan Unilever
+Balmer lawlawrie & co
+Hindustan zinc
+Heritage foods
+Edelweiss financial
+*** HSIL
+
+
 **********************************************************************************************************************
 
 
 * ITC
 * V-Guard Industries
 * Granules India Ltd
-* Bank of Baroda Ltd
 * Finolex Cables Ltd
 * Manappuram Finance Ltd
 * Relaxo Footwears Ltd
 * Larsen & Toubro Limited
-* Bombay Dyeing and Manufacturing Company
 
 
 
@@ -100,7 +147,6 @@ PENNY STOCKS
 * Grauer & Weil India Ltd - 41.15
 * Ajanta Pharma Ltd - 95.60
 * Equitas Small Finance Bank Ltd - 39.30
-* Ujjivan Small Finance Bank Ltd - 36.25
 * Bayer AG - 52.09
 * Procter & Gamble Co - 132.24
 * Cybermate Infotek Ord Shs * 2.02
@@ -116,7 +162,6 @@ PENNY STOCKS
 
 * Astral Poly Technik Ltd
 * AU Small Finance Bank Ltd
-* Dixon Technologies (India) Ltd
 * Dr. Lal PathLabs Ltd
 * All HDFC
 * ICICI Lombard General Insurance Co Ltd
@@ -156,3 +201,33 @@ PENNY STOCKS
 * Lioyds Steels
 * ITC
 * 
+
+
+********************************************* Types of Sectors *********************************************************
+* Cement
+* Housing Finance Companies
+* Paints
+* Pipes
+* Sanitaryware
+* Light Electricals
+* Tiles
+* Wood panel
+* Steel
+* Building Materials
+* Banks
+* Information Technologies
+* Insurance Companies
+* Other Financial services
+* Consumer facing
+* Agrochemicals
+* Chemicals
+* Pharma
+* Defence
+* Tyres
+* Electronics
+* Autos
+* Contract Manufacturing
+* Miscellaneous
+
+--> https://qr.ae/pNEeSj
+**********************************************************************************************************************
