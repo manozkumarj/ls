@@ -1,4 +1,19 @@
-
+************************************ All time fav Stocks ******************************************************
+* Dixon technologies
+* Affle India - 30
+* IRCTC
+* ITC
+* Reliance industries
+* SBI
+* SBI cards
+* Tata Motors
+* Tata Power
+* Borosil renewables
+* Ashok Leyland
+* HDFC
+* Tata steel
+* Deepak Nitrite
+* Tata chemicals
 
 ************************************ Next targeted stocks ******************************************************
 * Hindalco = Should buy 100 shares
@@ -17,6 +32,8 @@
 * PVR
 * Inox Leisure
 * Tata communications
+* Praj Industries || BCL
+* 
 
 
 * GAIL
@@ -205,9 +222,12 @@ PENNY STOCKS
 
 ********************************************* Types of Sectors *********************************************************
 * Cement
+	-> Ambuja Cements
 * Housing Finance Companies
 * Paints
+	-> Asian Paints
 * Pipes
+	-> Astral Poly Technik
 * Sanitaryware
 * Light Electricals
 * Tiles
@@ -228,6 +248,7 @@ PENNY STOCKS
 * Autos
 * Contract Manufacturing
 * Miscellaneous
+	-> Borosil Renewables Ltd
 
 --> https://qr.ae/pNEeSj
 **********************************************************************************************************************
