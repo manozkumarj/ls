@@ -1,11 +1,11 @@
 ************************************ All time fav Stocks ******************************************************
 * Dixon technologies
-* Affle India - 30
+* Affle India
+* SBI cards
 * IRCTC
 * ITC
 * Reliance industries
 * SBI
-* SBI cards
 * Tata Motors
 * Tata Power
 * Borosil renewables
@@ -14,18 +14,21 @@
 * Tata steel
 * Deepak Nitrite
 * Tata chemicals
+* Motherson Sumi
+* Avenue Supermarts
+* PVR
+* LT foods
+* HUL
+* Jubilant FoodWorks
 
 ************************************ Next targeted stocks ******************************************************
 * Hindalco = Should buy 100 shares
 * Ashok Leyland Ltd = Should buy 100 shares
 * Borosil = Should buy 100 shares
-* Affle India = Should buy 20 shares
 * 
 
 ************************************ Stocks I wanna buy next surely ******************************************************
-* Affle India
 * Titan
-* Tata consumer products
 * Tata Elxsi
 * Tata steel
 * IndusInd
@@ -221,8 +224,25 @@ PENNY STOCKS
 
 
 ********************************************* Types of Sectors *********************************************************
+* Communications
+	-> Affle India
 * Cement
 	-> Ambuja Cements
+* Computers - Software Medium & Small
+	-> Firstsource Solutions Ltd
+* Auto Ancillaries
+	-> Motherson Sumi Systems Ltd
+	-> Talbros Automotive Components Ltd
+* Construction & Contracting - Civil
+	-> NCC
+* Oil Drilling And Exploration
+	-> ONGC
+* Paper
+	-> Pudumjee Paper Products Ltd
+* FMCG
+	-> Tata Consumer Products
+* Power - Generation & Distribution
+	-> Tata Power
 * Housing Finance Companies
 * Paints
 	-> Asian Paints
@@ -233,11 +253,15 @@ PENNY STOCKS
 * Tiles
 * Wood panel
 * Steel
+	-> SAIL
 * Building Materials
 * Banks
+	-> Bank of Baroda Ltd
+	-> SBI
 * Information Technologies
 * Insurance Companies
 * Other Financial services
+	-> L & T finance holding
 * Consumer facing
 * Agrochemicals
 * Chemicals

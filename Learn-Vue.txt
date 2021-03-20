@@ -1,2 +1,7 @@
 * https://www.youtube.com/watch?v=e-E0UB-YDRk --> Vue 3 Tutorial - Full Course 10 Hours 10 apps
-* 
+* https://www.youtube.com/watch?v=ccsz9FRy-nk&list=PLC3y8-rFHvwgeQIfSDtEGVvvSEPDkL_1f --> Playlist of 66 videos
+* https://www.youtube.com/watch?v=aQtRuyvY6EQ&list=PL8p2I9GklV45qwTH-mdzllUuFRJO-euYn --> Vue js tutorial in Hindi playlist of 38 videos
+* https://www.youtube.com/watch?v=qZXt1Aom3Cs --> Vue JS Crash Course 2021
+
+
+*** https://www.youtube.com/watch?v=BGAu__J4xoc&list=PL4cUxeGkcC9i371QO_Rtkl26MwtiJ30P2 --> Vuex Tutorial playlist of 8 videos from The NetNinjs
