@@ -5,3 +5,12 @@
 
 
 *** https://www.youtube.com/watch?v=BGAu__J4xoc&list=PL4cUxeGkcC9i371QO_Rtkl26MwtiJ30P2 --> Vuex Tutorial playlist of 8 videos from The NetNinjs
+
+
+
+
+
+
+*** https://www.youtube.com/watch?v=FIL0za5MzZA&list=PL1TrjkMQ8UbVSDkDaLkjpeNGkblNU8rpW --> Learn Vuex in 30 minutes | Vuex tutorial | Vue.js State management tutorial
+* https://www.youtube.com/watch?v=y7DQhNs9Azw --> Vuex 4 Crash Course - 2021
+* 

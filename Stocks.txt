@@ -1,225 +1,57 @@
 ************************************ All time fav Stocks ******************************************************
-* Dixon technologies
-* Affle India
+* Dixon technologies = 28 --> 100000/3500
+* Affle India = 19 --> 100000/5200
+* IRCTC = 25 --> 100000/1900
 * SBI cards
-* IRCTC
 * ITC
 * Reliance industries
 * SBI
 * Tata Motors
-* Tata Power
+* Tata Power = 100 --> 10000/100
 * Borosil renewables
 * Ashok Leyland
 * HDFC
 * Tata steel
 * Deepak Nitrite
 * Tata chemicals
-* Motherson Sumi
+* Motherson Sumi = 100 --> 21500/215
 * Avenue Supermarts
 * PVR
 * LT foods
 * HUL
 * Jubilant FoodWorks
+* Laurus labs
 
-************************************ Next targeted stocks ******************************************************
-* Hindalco = Should buy 100 shares
-* Ashok Leyland Ltd = Should buy 100 shares
-* Borosil = Should buy 100 shares
+************************************ Stocks I bought **********************************************************
 * 
 
-************************************ Stocks I wanna buy next surely ******************************************************
+
+
+
+************************************ Top Monopoly stocks of India ******************************************************
+*** By Sahil Bhadviya
+* HUL
+* Asian Paints
+* Maruti Suzuki
+* Eicher Motor
+* Pidilite
+* Nestle
+* GMM Pfaudler Ltd
+* Page Industries
+* Jubilant FoodWorks
 * Titan
-* Tata Elxsi
-* Tata steel
-* IndusInd
-* PVR
-* Inox Leisure
-* Tata communications
-* Praj Industries || BCL
+* CAMS
+* IEX
+* APL Apollo Tubes
+* Indiamart
+* IRCTC
 * 
 
 
-* GAIL
-* HCL
-* Ircon International
-* BPCL
-* SBI
-* SBI cards
-* NTPC
-* IRCTC
-* Container Corporation
-* Neogen Chemicals
-* Lupin
-* Kajaria ceramics
-* HPCL
 
-
-************************************ Stocks I wanna buy & hold ******************************************************
-* IIFL wealth management
-* Finolex Cables Ltd = 37000
-* Relaxo Footwears Ltd = 30000
-* KMC Speciality Hospitals India Ltd = 10000
-* Urja global = 10000 - 1000 @8.50
-* Butterfly Gandhimathi Appliances Ltd
-* ARVIND FASHIONS LTD
-* Arvind Limited
-* Savita oil tech
-
-
-
-* Spice Jet
-*** NTPC
-*** UPL
-* onmobile = 125
-* Cipla
-
-* GAIL
-* BHEL
-* Greenply Industries Ltd.
-
-Redington
-Ucal fuel
-Mstc
-Lincoln pharma
-Pidilite
-Ashok leyland
-Vedanta
-Zee entertainment
-
-Alkyl
-Astral pipes - 1960
-Maruti suzuki
-Hero motocorp
-Bajaj auto
-Bilcare limited
-Anant raj limited
-Wockhardt
-Tata communications
-Indiabulls real estate
-Ncl industries
-Butterfly gandhimathi
-Marksans pharma
-Shriram transport fin corp
-Shriram city union finance
-Tata elxsi
-UPL
-Sun pharma
-Kotak Mahindra bank
-
-
-
-Divis labs
-Tata consumer products
-Indiamart
-Central depository
-Larsen & toubro limited
-Gail India
-Petronet LNG
-Tata steel
-LIC housing Finance
-MOIL
-NMDC
-Sonata software
-Union bank of India
-Uco bank
-Bank of Maharashtra
-Arrow green tech
-Subex
-Ambuja cement
-BHEL
-Genus power infra
-L&t technology services
-Tata elxsi
-IEX
-CAMS
-CDSL
-Biocon
-Laurus labs
-Birlasoft
-Tata consumer products
-Appollo tyres
-TCS
-Hindustan Unilever
-Balmer lawlawrie & co
-Hindustan zinc
-Heritage foods
-Edelweiss financial
-*** HSIL
-
-
-**********************************************************************************************************************
-
-
-* ITC
-* V-Guard Industries
-* Granules India Ltd
-* Finolex Cables Ltd
-* Manappuram Finance Ltd
-* Relaxo Footwears Ltd
-* Larsen & Toubro Limited
-
-
-
-
-PENNY STOCKS
-* KMC Speciality Hospitals India Ltd - 24.05
-* Morepen Laboratories Limited - 27.75
-* Grauer & Weil India Ltd - 41.15
-* Ajanta Pharma Ltd - 95.60
-* Equitas Small Finance Bank Ltd - 39.30
-* Bayer AG - 52.09
-* Procter & Gamble Co - 132.24
-* Cybermate Infotek Ord Shs * 2.02
-* Banka BioLoo Ltd - 60.05
-*** Dollar Industries Ltd - 216.95
-*** Aksharchem (India) Ltd - 264.90
-* Newgen Software Technologies Ltd
-
-
-
-
-
-
-* Astral Poly Technik Ltd
-* AU Small Finance Bank Ltd
-* Dr. Lal PathLabs Ltd
-* All HDFC
-* ICICI Lombard General Insurance Co Ltd
-* Varun Beverages Ltd
-
-
------------------------------------------------------------------------------------------------------------
-
-
-
-* DMart - Avenue Supermarts Limited
-* Jubilant FoodWorks Limited
-* Urja Global Ltd
-* Yes bank
-* Burger King India
-* Mrs.Bectors Foods
-* AstraZeneca 
-* Zee Entertainment
-* Jet Airways (I)
-* Bharti Airtel
-* Dish TV India
-* Union Bank Of India
-* Tata Steel
-* LT Foods
-* Indian Oil Corp.
-* Bajaj Corp
-* Dabur India
-* Future Consumer
-* Tasty Bite Eatables
-* Seasons Furnishing
-* JLA Infraville
-* BPCL
-* Varun Beverages
-* MOIL
-* IRB Infra.&Developer
-* Mahindra & Mahindra
-* Lioyds Steels
-* ITC
+********************************************* Miscellaneous *********************************************************
+* Praj industries
+* Pokarna
 * 
 
 
