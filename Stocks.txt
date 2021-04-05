@@ -2,7 +2,7 @@
 * Dixon technologies = 28 --> 100000/3500
 * Affle India = 19 --> 100000/5200
 * IRCTC = 25 --> 100000/1900
-* SBI cards
+* SBI cards = 20 --> 
 * ITC
 * Reliance industries
 * SBI
