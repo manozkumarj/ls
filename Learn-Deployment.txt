@@ -1,0 +1,65 @@
+* Build a CI/CD Pipeline for a React App | AWS CodePipeline Full Tutorial | Code With Me!
+https://www.youtube.com/watch?v=zkNdHv1iMgY
+
+* Automatic Deployment With Github Actions
+https://www.youtube.com/watch?v=X3F3El_yvFg
+
+***** Automatic Deployment With Github Actions
+https://www.youtube.com/watch?v=X3F3El_yvFg
+
+*** ReactJS Automatic Deployments w/ Github Actions
+https://www.youtube.com/watch?v=encpjND99xU
+
+***** The Best Way to Host & Deploy a React Application  -- In Netlify flow
+https://www.youtube.com/watch?v=Ey_90l9GaAw
+
+*** Deploy React Application to Web in 2 Minutes using Surge
+https://www.youtube.com/watch?v=ercpz7RSyt4
+
+* Continuous Integration and Continuous Deployment ( CI/CD) for REACT.JS URDU/HINDI  -- In Surge flow
+https://www.youtube.com/watch?v=vqtdiqLvr2c
+
+* Deploy React Application to Web using Heroku
+https://www.youtube.com/watch?v=FgFdsuQUtwI
+
+* Auto Deploy React & Node.js with Github Actions CI/CD
+https://www.youtube.com/watch?v=6-RtA6FlbgQ
+
+* CI/CD | Continuous Integration | Delivery | Deployment -- Telusko
+https://www.youtube.com/watch?v=HjXTSbXG1k8
+
+* What is Docker?
+https://www.youtube.com/watch?v=u-YWtdbpEhQ
+
+* Jenkins Tutorial - Create a Pipeline Job to build Node.js and React Application using npm
+https://www.youtube.com/watch?v=pE89647F36c
+
+* What is Nginx | easy way
+https://www.youtube.com/watch?v=WuH0T9FHDZ4
+
+* What is Jenkins? | Jenkins Introduction | Advantages of Jenkins | How does Jenkins work?
+https://www.youtube.com/watch?v=GpuozJ-GEpE
+
+* GitHub Actions Tutorial - Basic Concepts and CI/CD Pipeline with Docker
+https://www.youtube.com/watch?v=R8_veQiYBjI
+
+* What is DevOps in 5 Minutes - Telugu
+https://www.youtube.com/watch?v=_gPDoAEqSNM
+
+* DevOps Engineer అవ్వడానికి ఏ TOOLS నేర్చుకోవాలి | Which tools should learn to enter into DevOps
+https://www.youtube.com/watch?v=mdxESbWtThs
+
+* AWS For Beginners in Telugu | What is AWS in Telugu | AWS Training | Edureka Telugu
+https://www.youtube.com/watch?v=JAKlChwds-E
+
+* What is Agile?
+https://www.youtube.com/watch?v=NpCEjtKAa20
+
+* Digital Ocean Setup Tutorial
+https://www.youtube.com/watch?v=RvGytogK5tQ&list=PL_cUvD4qzbkzXMCf_my6yWP-LqDbw4foC  -- 10 videos
+
+* GitLab CI/CD Pipeline | GitLab CI/CD Tutorial | Gitlab Tutorial | DevOps Training | Edureka
+https://www.youtube.com/watch?v=HSV-Kky9N5E
+
+* Docker Tutorial for Beginners [FULL COURSE in 3 Hours]
+https://www.youtube.com/watch?v=3c-iBn73dDE

@@ -45,7 +45,11 @@
 
 * https://www.youtube.com/watch?v=ly3m6mv5qvg --> React Projects
 
-* 
+* https://www.youtube.com/watch?v=7dTTFW7yACQ&list=PL4cUxeGkcC9gm4_-5UsNmLqMosM-dzuvQ  --> React Testing Library Tutorial (14 videos)
+
+* https://www.youtube.com/watch?v=Dorf8i6lCuk  --> React Crash Course for Beginners 2021 - Learn ReactJS from Scratch in this 100% Free Tutorial! -- Max
+
+* https://www.youtube.com/watch?v=LlvBzyy-558  --> React Hooks Course - All React Hooks Explained
 
 
 PWA:

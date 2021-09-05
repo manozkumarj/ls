@@ -1,6 +1,6 @@
 * https://www.youtube.com/watch?v=1Rs2ND1ryYc
-* 
-
+* https://www.youtube.com/watch?v=ZVug65gW-fc  --> How To Create Skeleton Loading Animation With CSS -- WDS
+*** https://www.youtube.com/watch?v=0gayskscLY4  --> Another 5 Must Know CSS Tricks That Almost Nobody Knows -- WDS - WOW
 
 
 

@@ -1,9 +1,37 @@
+************************************ All time fav Stocks ******************************************************
+* Dixon technologies = 26 @3502
+* Affle India = 30 @5283
+* IRCTC = 20 @1643
+* SBI cards = 60 @909.09
+* Railtel = 50 @109.40
+* ITC
+* Reliance industries
+* SBI
+* Tata Motors = 50 @285
+* Tata Power = 100 @97.80
+* Borosil renewables
+* Ashok Leyland
+* HDFC
+* Tata steel
+* Deepak Nitrite
+* Tata chemicals
+* Motherson Sumi =
+* Avenue Supermarts
+* PVR
+* LT foods
+* HUL
+* Jubilant FoodWorks
+* Laurus labs
+* Intellect design
+
+************************************ Stocks I bought **********************************************************
+* 
 
 
 
 
 ************************************ Top Monopoly stocks of India ******************************************************
-*** By Sahil Bhadviya
+********** By Sahil Bhadviya *******************
 * HUL
 * Asian Paints
 * Maruti Suzuki
@@ -20,6 +48,13 @@
 * Indiamart
 * IRCTC
 * 
+
+********** By Sahil Day Trader Telugu *******************
+* HLE Glascoat @2292 && GMM Pfaudler
+* SeQuent Scientific @253
+* Solara Active Pharma Sciences @1452
+* Tasty Bite Eatables @14651
+* Blue Star @835
 
 
 
