@@ -63,3 +63,29 @@ https://www.youtube.com/watch?v=HSV-Kky9N5E
 
 * Docker Tutorial for Beginners [FULL COURSE in 3 Hours]
 https://www.youtube.com/watch?v=3c-iBn73dDE
+
+* Nginx Tutorial | Learn Nginx Fundamentals | Deploy a Web Application Using Nginx | Edureka
+https://www.youtube.com/watch?v=1ndlRiaYiWQ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* Learn SSH In 6 Minutes - Beginners Guide to SSH Tutorial
+https://www.youtube.com/watch?v=v45p_kJV9i4

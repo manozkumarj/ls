@@ -6,3 +6,14 @@
 * https://www.freecoursesonline.me/frontend-masters-fundamentals-to-functional-javascript-v3/
 * https://www.freetutorialsus.com/advanced-javascript-concepts-udemy-course-free-download/
 * https://www.youtube.com/watch?v=G_miVJbLraA&list=PL_cUvD4qzbkzrpH8det0pvoT_Oxu1JV34  --> JavaScript Tutorial for Beginners
+*** https://www.youtube.com/watch?v=2WJL19wDH68  --> JS Engine EXPOSED 🔥 Google's V8 Architecture 🚀 | Namaste JavaScript Ep. 16
+* 
+
+
+
+
+
+
+
+
+* https://astexplorer.net/

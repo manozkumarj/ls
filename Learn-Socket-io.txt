@@ -7,3 +7,5 @@
 * https://www.youtube.com/watch?v=SYP54qp4aMM&list=PL9a7QRYt5fqlDRSRZCtqhVCg_r5U9idbF --> (Build A Chat App( Text, Video, Image) 1 (React JS, MongoDB , Redux, Socket Io ) -- 3 videos)
 
 * https://drive.google.com/uc?export=download&id=1GE1G0464lzKKk2FaCxH7L1fguZpjU7DC
+
+* WebSockets in 100 Seconds & Beyond with Socket.io --> https://www.youtube.com/watch?v=1BfCnjr_Vjg
