@@ -1,11 +1,14 @@
-* https://www.youtube.com/watch?v=1Rs2ND1ryYc
+* https://www.youtube.com/watch?v=1Rs2ND1ryYc --> CSS Tutorial - Zero to Hero (Complete Course)
 * https://www.youtube.com/watch?v=ZVug65gW-fc  --> How To Create Skeleton Loading Animation With CSS -- WDS
 *** https://www.youtube.com/watch?v=0gayskscLY4  --> Another 5 Must Know CSS Tricks That Almost Nobody Knows -- WDS - WOW
 
+* https://www.youtube.com/watch?v=_a5j7KoflTs  --> Sass Tutorial for Beginners - CSS With Superpowers
 
+* Sass Tutorial for Beginners - CSS With Superpowers
+https://www.youtube.com/watch?v=_a5j7KoflTs
 
 Learn Responsive Design:
 -----------------------------------------------------------------
-* https://www.youtube.com/watch?v=CrSC1ZA9j0M
-* https://www.youtube.com/watch?v=ElBizYh0_ds
-* 
+* https://www.youtube.com/watch?v=CrSC1ZA9j0M
+* https://www.youtube.com/watch?v=ElBizYh0_ds
+* 

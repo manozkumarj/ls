@@ -53,6 +53,62 @@
 
 * https://www.youtube.com/watch?v=4UZrsTqkcW4  --> Full React Course 2020 - Learn Fundamentals, Hooks, Context API, React Router, Custom Hooks
 
+* https://www.youtube.com/watch?v=JDZRfLGNWdc  --> Learn React Redux Thunk with Project | Redux Thunk Middleware | Axios Async Actions | Redux Tutorial
+
+* https://www.youtube.com/watch?v=4BranN3qnDU  --> React.memo, useMemo, and useCallback Optimizations
+
+* https://www.youtube.com/watch?v=TiSGujM22OI&list=PLC3y8-rFHvwi1AXijGTKM0BKtHzVC-LSK  --> React TypeScript Tutorial for Beginners - by Codevolution 5 videos
+
+* React Query Tutorials --> by The Net Ninjs - 7 videos
+https://www.youtube.com/watch?v=x1rQ61otgtU&list=PLEX-O1MiFgYQ5XX81V0V79NbmSVK1bVQ5
+
+* Code 15 React Projects - Complete Course
+https://www.youtube.com/watch?v=a_7Z7C_JCyo
+
+* Chat Application using React JS - Build and Deploy a Chat App in 1 Hour (Microsoft Teams)
+https://www.youtube.com/watch?v=jcOKU9f86XE
+
+* Realtime Chat App with React, Node.js, Socket.io | MERN Stack Messenger Clone
+https://www.youtube.com/watch?v=HggSXt1Hzfk
+
+
+* Build and Deploy a Full Stack Realtime Chat Messaging App with Authentication & SMS Notifications
+https://www.youtube.com/watch?v=MJzbJQLGehs
+
+* React E-Commerce App Design Tutorial | React Shopping Cart UI Design
+https://www.youtube.com/watch?v=c1xTDSIXit8
+
+* MERN Stack Course - ALSO: Convert Backend to Serverless with MongoDB Realm
+https://www.youtube.com/watch?v=mrHNSanmqQ4
+
+* React JS Course for Beginners - 2021 Tutorial  --> by Freecodecamp
+https://www.youtube.com/watch?v=nTeuhbP7wdE
+
+* React Notification
+https://www.youtube.com/watch?v=MvNXO_kYqHo
+
+* Improve react Performance with React Lazy Load Image.
+https://www.youtube.com/watch?v=0-Ze5dEgVFk
+
+*** React Lazy Loading & Code splitting
+https://www.youtube.com/watch?v=tV9gvls8IP8
+
+*** Route based Code Splitting with React Router --> by Codevolution
+https://www.youtube.com/watch?v=5ZFK_5V8VpI
+
+* Code Splitting with React, React.lazy, and React Router v5
+https://www.youtube.com/watch?v=0mQbxF-_S-M
+
+
+* Infinite Scrolling With React - Tutorial  --> by WDS
+https://www.youtube.com/watch?v=NZKUirTtxcg
+
+* Learn React #13 - Introduction to Redux Saga and getting data from APIs
+https://www.youtube.com/watch?v=1K26DIKt3w8
+https://codesandbox.io/s/stoic-euler-cjhgx?file=/src/App.js
+
+
+
 
 PWA:
 -------------------------------------------------------------------------------------------

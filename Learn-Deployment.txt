@@ -10,6 +10,9 @@ https://www.youtube.com/watch?v=X3F3El_yvFg
 *** ReactJS Automatic Deployments w/ Github Actions
 https://www.youtube.com/watch?v=encpjND99xU
 
+*** Github Actions - Continuous Integration & Continuous Delivery
+https://www.youtube.com/watch?v=Qw2taTafe9k
+
 ***** The Best Way to Host & Deploy a React Application  -- In Netlify flow
 https://www.youtube.com/watch?v=Ey_90l9GaAw
 
@@ -67,6 +70,21 @@ https://www.youtube.com/watch?v=3c-iBn73dDE
 * Nginx Tutorial | Learn Nginx Fundamentals | Deploy a Web Application Using Nginx | Edureka
 https://www.youtube.com/watch?v=1ndlRiaYiWQ
 
+* NodeJS Essentials 45: Deploying to Digital Ocean
+https://www.youtube.com/watch?v=fJ4x00SR7vo
+
+***** Full Node.js Deployment - NGINX, SSL With Lets Encrypt  --> Fully digital ocean by Traversy Media
+https://www.youtube.com/watch?v=oykl1Ih9pMg
+Helper file as well by Brad -> https://gist.github.com/bradtraversy/cd90d1ed3c462fe3bddd11bf8953a896
+
+* How to Set Up an NGINX Reverse Proxy ( with real time example ) 2021
+https://www.youtube.com/watch?v=sdAB93h4S1w
+
+* Deploying to a server with GitHub Actions - Up and Running - Elixir Phoenix
+https://www.youtube.com/watch?v=gW1TDirJ5E4
+
+* MUST USE Websites & Tools for Web Developers
+https://www.youtube.com/watch?v=9CEW3Tmx2tg
 
 
 
@@ -75,17 +93,27 @@ https://www.youtube.com/watch?v=1ndlRiaYiWQ
 
 
 
+* Yaml Tutorial | Learn YAML in 18 mins
+https://www.youtube.com/watch?v=1uFVr15xDGg
 
-
-
-
-
-
-
-
-
-
+*** YAML crash course --> by Hitesh choudhary
+https://www.youtube.com/watch?v=9BGWtTahGnw
 
 
 * Learn SSH In 6 Minutes - Beginners Guide to SSH Tutorial
 https://www.youtube.com/watch?v=v45p_kJV9i4
+
+* SSH Crash Course | With Some DevOps - By Traversy Media
+https://www.youtube.com/watch?v=hQWRp-FdTpc
+Helper file as well by Brad -> https://gist.github.com/bradtraversy/f03df587f2323b50beb4250520089a9e
+
+
+*** DevOps Roadmap 2021 - How to become a DevOps Engineer?
+https://www.youtube.com/watch?v=9pZ2xmsSDdo
+
+
+
+************************************************************************************************************
+* http port number is 80
+* https port number is 443
+* 

@@ -1,10 +1,14 @@
 * https://www.freetutorialsus.com/angular-4-front-to-back-2-udemy-course-free-download/ (Traversy)
 * https://freetutorials.se/the-complete-angular-course-beginner-to-advanced-1/ (Mosh)
 * https://www.youtube.com/watch?v=0eWrpsCLMJQ&list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ 
-* 
+* Angular Crash Course 2021 - by TraversyMedia
+https://www.youtube.com/watch?v=3dHNOWTI7H8
 
 
 * https://www.youtube.com/watch?v=UoVytwPk3iA&list=PLYxzS__5yYQlqCmHqDyW3yo5V79C7eaTe
+
+* Angular In Telugu | ANGULAR 10 IN TELUGU |angular in telugu|ANGULAR INTRODUCTION FOR BEGINNERS(2021)
+https://www.youtube.com/watch?v=9MxS8oNlnMM
 
 
 Practice:---------------------------------------------------------------

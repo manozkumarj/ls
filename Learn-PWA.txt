@@ -3,3 +3,9 @@
 
 * https://www.freetutorialsus.com/progressive-web-apps-pwa-the-complete-guide-3-udemy-course-free-download/
 * https://ionicthemes.com/tutorials/about/the-complete-guide-to-progressive-web-apps-with-ionic4
+
+* React js pwa tutorial --> by Code Step By Step - 14 videos
+https://www.youtube.com/watch?v=bRoRikxgIew&list=PL8p2I9GklV46NFHdQMFBjXvxwVqtJpa2N
+
+* How to Show Desktop Notifications - JavaScript Notification API Tutorial
+https://www.youtube.com/watch?v=Jncoj-Gvh9o

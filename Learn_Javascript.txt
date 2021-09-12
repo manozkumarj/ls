@@ -7,12 +7,22 @@
 * https://www.freetutorialsus.com/advanced-javascript-concepts-udemy-course-free-download/
 * https://www.youtube.com/watch?v=G_miVJbLraA&list=PL_cUvD4qzbkzrpH8det0pvoT_Oxu1JV34  --> JavaScript Tutorial for Beginners
 *** https://www.youtube.com/watch?v=2WJL19wDH68  --> JS Engine EXPOSED 🔥 Google's V8 Architecture 🚀 | Namaste JavaScript Ep. 16
+* Build 15 JavaScript Projects - Vanilla JavaScript Course
+https://www.youtube.com/watch?v=3PHXvlpOkf4
+
+* JavaScript Programming - Full Course
+https://www.youtube.com/watch?v=jS4aFq5-91M
+
+* Javascript Fundamentals -- 10:22 Hrs
+https://www.youtube.com/watch?v=2Ji-clqUYnA
+
+*** Introduction To Testing In JavaScript With Jest  --> by WDS
+https://www.youtube.com/watch?v=FgnxcUQ5vho
+
+*** How to Show Desktop Notifications - JavaScript Notification API Tutorial
+https://www.youtube.com/watch?v=Jncoj-Gvh9o
+
 * 
-
-
-
-
-
 
 
 

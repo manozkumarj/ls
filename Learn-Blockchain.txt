@@ -1,3 +1,9 @@
+* But how does bitcoin actually work?
+https://www.youtube.com/watch?v=bBC-nXj3Ng4
+
 *** https://www.youtube.com/watch?v=n_5oeZWbseY --> Complete Blockchain Development Roadmap 🔥 What is Blockchain and how to get started? Salary in India
 
 * https://www.coursera.org/learn/blockchain-foundations-and-use-cases?action=enroll
+
+* Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial
+https://www.youtube.com/watch?v=M576WGiDBdQ

@@ -5,3 +5,10 @@
 *** https://www.youtube.com/watch?v=MFuwkrseXVE  --> Next.js Crash Course for Beginners 2021 - Learn NextJS from Scratch in this 100% Free Tutorial! -- MAX video
 
 *** https://www.youtube.com/watch?v=9P8mASSREYM&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH  --> Next.js Tutorial for Beginners -- Total 79 videos playlist by Codevolution channel
+
+* https://www.youtube.com/watch?v=mTz0GXj8NN0  --> Next.js Crash Course 2021 - by TraversyMedia
+
+* https://www.youtube.com/watch?v=Sklc_fQBmcs  --> Next.js in 100 Seconds // Plus Full Beginner's Tutorial
+
+* Lazy Loading in Next.js (and on scroll)
+https://www.youtube.com/watch?v=_cccpx2Bw_g
