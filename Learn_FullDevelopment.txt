@@ -1,3 +1,9 @@
+* What is API ?
+https://www.youtube.com/watch?v=tI8ijLpZaHk
+
+* Responsive Dropdown Sidebar Menu using HTML CSS and JavaScript | Side Navigation Bar
+https://www.youtube.com/watch?v=ES8vJcUqE7s
+
 * Learn HTML5 and CSS3 From Scratch - Full Course - https://www.youtube.com/watch?v=mU6anWqZJcc
 
 * https://www.freetutorialsus.com/the-complete-web-developer-zero-to-mastery-3-udemy-course-free-download-2/
@@ -41,8 +47,9 @@ https://www.youtube.com/watch?v=-_X6PhkjpzU
 
 
 
-
-
 *************************************************************************************************************
 * Web Developer vs Web Designer | Difference Between a Web Developer and Web Designer | Edureka
 https://www.youtube.com/watch?v=bDtxF7qSofg
+
+* Very useful site for nice menus
+https://www.codinglabweb.com/

@@ -1,12 +1,19 @@
 * https://www.youtube.com/watch?v=23hrM4saaMk
-* https://freetutorials.se/javascript-basics-for-beginners/
-* https://www.freetutorialsus.com/object-oriented-programming-in-javascript-udemy-course-free-download/
-* https://freetutorials.se/advanced-javascript-concepts/
-* https://www.youtube.com/watch?v=o1IaduQICO0
-* https://www.freecoursesonline.me/frontend-masters-fundamentals-to-functional-javascript-v3/
-* https://www.freetutorialsus.com/advanced-javascript-concepts-udemy-course-free-download/
+* https://freetutorials.se/javascript-basics-for-beginners/
+* https://www.freetutorialsus.com/object-oriented-programming-in-javascript-udemy-course-free-download/
+* https://freetutorials.se/advanced-javascript-concepts/
+* https://www.youtube.com/watch?v=o1IaduQICO0
+* https://www.freecoursesonline.me/frontend-masters-fundamentals-to-functional-javascript-v3/
+* https://www.freetutorialsus.com/advanced-javascript-concepts-udemy-course-free-download/
 * https://www.youtube.com/watch?v=G_miVJbLraA&list=PL_cUvD4qzbkzrpH8det0pvoT_Oxu1JV34  --> JavaScript Tutorial for Beginners
 *** https://www.youtube.com/watch?v=2WJL19wDH68  --> JS Engine EXPOSED 🔥 Google's V8 Architecture 🚀 | Namaste JavaScript Ep. 16
+
+* What is DOM
+https://www.youtube.com/watch?v=XD7fYLQeQIg
+
+* JavaScript DOM Crash Course - Part 1 --> by TraversyMedia
+https://www.youtube.com/watch?v=0ik6X4DJKCc
+
 * Build 15 JavaScript Projects - Vanilla JavaScript Course
 https://www.youtube.com/watch?v=3PHXvlpOkf4
 

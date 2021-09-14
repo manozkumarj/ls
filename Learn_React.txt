@@ -1,4 +1,6 @@
 * https://www.youtube.com/watch?v=xa-_FIy2NgE  -- 6 Pro Tips from React Developers
+* Top 10 Common Mistakes React Programmers Make
+https://www.youtube.com/watch?v=3lA7Jz1lSCA
 
 * https://www.youtube.com/watch?v=NCwa_xi0Uuc
 * MEARN by MAX
@@ -61,6 +63,9 @@
 
 * React Query Tutorials --> by The Net Ninjs - 7 videos
 https://www.youtube.com/watch?v=x1rQ61otgtU&list=PLEX-O1MiFgYQ5XX81V0V79NbmSVK1bVQ5
+
+* Material UI React Tutorial
+https://www.youtube.com/watch?v=vyJU9efvUtQ
 
 * Code 15 React Projects - Complete Course
 https://www.youtube.com/watch?v=a_7Z7C_JCyo
