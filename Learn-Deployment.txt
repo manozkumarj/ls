@@ -86,6 +86,9 @@ https://www.youtube.com/watch?v=gW1TDirJ5E4
 * MUST USE Websites & Tools for Web Developers
 https://www.youtube.com/watch?v=9CEW3Tmx2tg
 
+* Github Actions CI/CD - Everything you need to know to get started
+https://www.youtube.com/watch?v=mFFXuXjVgkU
+
 
 
 

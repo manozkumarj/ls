@@ -9,8 +9,14 @@
 * Node.js and Express.js - Full Course
 https://www.youtube.com/watch?v=Oe421EPjeBE
 
+* Node.js E-Commerce App REST API with MongoDB | Shopping API with Stripe & JWT
+https://www.youtube.com/watch?v=rMiRZ1iRC0A
 
 -> Send SMS Text Messages From Node.js
  https://www.youtube.com/watch?v=980wnspXLe0
 
--> 
+-> [Node JS & Express] Coffee Shop Website - turbo 360
+https://www.youtube.com/watch?v=Dkh2IjrAkVI
+
+* #1 Microservices Introduction Class in Telugu.
+https://www.youtube.com/watch?v=CrS0arbkl1I

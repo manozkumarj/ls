@@ -12,3 +12,9 @@
 
 * Lazy Loading in Next.js (and on scroll)
 https://www.youtube.com/watch?v=_cccpx2Bw_g
+
+* Next.js + MongoDB | Build a E-commerce Full Stack - Demo
+https://www.youtube.com/watch?v=UsEN7LGefhA
+
+* Next.js Course: Full ECommerce Website By Nextjs [2021]
+https://www.youtube.com/watch?v=3kYkEVIZNZY

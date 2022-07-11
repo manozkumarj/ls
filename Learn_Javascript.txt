@@ -14,6 +14,12 @@ https://www.youtube.com/watch?v=XD7fYLQeQIg
 * JavaScript DOM Crash Course - Part 1 --> by TraversyMedia
 https://www.youtube.com/watch?v=0ik6X4DJKCc
 
+* JavaScript in telugu | ES5 to ES12 versions of JavaScript in telugu
+https://www.youtube.com/watch?v=sPJB_2Kedds
+
+* ES6 Modern JavaScript In Telugu | JavaScript For Beginners In Telugu
+https://www.youtube.com/watch?v=p4ID1G1w7m0&list=PLWnZ0qt0PImX-tA6I1tFQW8SDSDKHvV-2
+
 * Build 15 JavaScript Projects - Vanilla JavaScript Course
 https://www.youtube.com/watch?v=3PHXvlpOkf4
 
@@ -23,13 +29,17 @@ https://www.youtube.com/watch?v=jS4aFq5-91M
 * Javascript Fundamentals -- 10:22 Hrs
 https://www.youtube.com/watch?v=2Ji-clqUYnA
 
-*** Introduction To Testing In JavaScript With Jest  --> by WDS
+*** Introduction To Testing In JavaScript With Jest --> by WDS
 https://www.youtube.com/watch?v=FgnxcUQ5vho
 
 *** How to Show Desktop Notifications - JavaScript Notification API Tutorial
 https://www.youtube.com/watch?v=Jncoj-Gvh9o
 
-* 
+* Learn DOM Manipulation In 18 Minutes --> by WDS
+https://www.youtube.com/watch?v=y17RuWkWdn8
+
+* 5 Javascript Concepts Every Beginner Developer Should know | Javascript Tutorial
+https://www.youtube.com/watch?v=orHFVRvUtk4
 
 
 

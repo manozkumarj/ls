@@ -2,6 +2,18 @@
 * Top 10 Common Mistakes React Programmers Make
 https://www.youtube.com/watch?v=3lA7Jz1lSCA
 
+* 3 Things That Will Make You Write Better React Code
+https://www.youtube.com/watch?v=HJBJY7itXLQ
+
+* what is ReactJs in telugu - 1 - ReactJs in telugu --> Total 58 videos
+https://www.youtube.com/watch?v=rF5Yor08uGw&list=PLWnZ0qt0PImVaDkDbF96dnRGO0_lXVLKf
+
+* React JS In Telugu
+https://www.youtube.com/watch?v=1r79Eqw6tfg
+
+* ReactJS Tutorial --> by Codevolution - 106 videos
+https://www.youtube.com/watch?v=QFaFIcGhPoM&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3
+
 * https://www.youtube.com/watch?v=NCwa_xi0Uuc
 * MEARN by MAX
 	-> https://www.youtube.com/watch?v=2yddJwL1Tpg
@@ -9,15 +21,15 @@ https://www.youtube.com/watch?v=3lA7Jz1lSCA
 * React Hooks
 	-> https://www.youtube.com/watch?v=cBM5xXyekmM
 * https://www.youtube.com/watch?v=Ke90Tje7VS0
-* https://www.freetutorialsus.com/react-front-to-back-2019-udemy-course-free-download/
-* https://www.freetutorialseu.com/react-node-fullstack-social-network-from-scratch-to-deploy-udemy-course-free-download/
-* https://www.youtube.com/watch?v=7CqJlxBYj-M
+* https://www.freetutorialsus.com/react-front-to-back-2019-udemy-course-free-download/
+* https://www.freetutorialseu.com/react-node-fullstack-social-network-from-scratch-to-deploy-udemy-course-free-download/
+* https://www.youtube.com/watch?v=7CqJlxBYj-M
 * https://www.freecoursesonline.me/code-with-mosh-mastering-react-1/
-* https://freetutorials.se/react-front-to-back-2019/ 
-* https://www.youtube.com/watch?v=m_u6P5k0vP0
-* https://www.youtube.com/watch?v=cF2lQ_gZeA8&list=PLC3y8-rFHvwisvxhZ135pogtX7_Oe3Q3A
-* https://freetutorials.se/the-complete-react-developer-course-w-hooks-and-redux/
-* https://www.freetutorialsus.com/complete-react-developer-in-2019-w-redux-hooks-graphql-udemy-course-free-download/
+* https://freetutorials.se/react-front-to-back-2019/ 
+* https://www.youtube.com/watch?v=m_u6P5k0vP0
+* https://www.youtube.com/watch?v=cF2lQ_gZeA8&list=PLC3y8-rFHvwisvxhZ135pogtX7_Oe3Q3A
+* https://freetutorials.se/the-complete-react-developer-course-w-hooks-and-redux/
+* https://www.freetutorialsus.com/complete-react-developer-in-2019-w-redux-hooks-graphql-udemy-course-free-download/
 
 * freeCodeCamp.org - 5H - https://www.youtube.com/watch?v=DLX62G4lc44
 
@@ -60,6 +72,9 @@ https://www.youtube.com/watch?v=3lA7Jz1lSCA
 * https://www.youtube.com/watch?v=4BranN3qnDU  --> React.memo, useMemo, and useCallback Optimizations
 
 * https://www.youtube.com/watch?v=TiSGujM22OI&list=PLC3y8-rFHvwi1AXijGTKM0BKtHzVC-LSK  --> React TypeScript Tutorial for Beginners - by Codevolution 5 videos
+
+* TypeScript Course In ReactJS - TypeScript
+https://www.youtube.com/watch?v=1jMJDbq7ZX4
 
 * React Query Tutorials --> by The Net Ninjs - 7 videos
 https://www.youtube.com/watch?v=x1rQ61otgtU&list=PLEX-O1MiFgYQ5XX81V0V79NbmSVK1bVQ5
@@ -112,11 +127,167 @@ https://www.youtube.com/watch?v=NZKUirTtxcg
 https://www.youtube.com/watch?v=1K26DIKt3w8
 https://codesandbox.io/s/stoic-euler-cjhgx?file=/src/App.js
 
+*** React Netflix Movie App Design Tutorial | React UI Full Course for Beginners
+https://www.youtube.com/watch?v=FzWG8jiw4XM
+React Node.js Netflix App | MERN Stack + JWT Full Tutorial
+https://www.youtube.com/watch?v=tsNswx0nRKM
+
+* React Social Media App Design Tutorial | React.js UI Course Full
+https://www.youtube.com/watch?v=zM93yZ_8SvE&list=PLj-4DlPRT48nfYgDK00oTjlDF4O0ZZyG8
+
+* Learn Custom Hooks In 10 Minutes
+https://www.youtube.com/watch?v=6ThXsUwLWvc
+
+* ReactJS Tutorial - 33 - Higher Order Components (Part 1)
+https://www.youtube.com/watch?v=B6aNv8nkUSw
+
+* React Admin Dashboard Tutorial | React Admin Panel Design Course for Beginners
+https://www.youtube.com/watch?v=aTPkos3LKi8
+
+* 5 Custom React Hooks You Need In Every Project
+https://www.youtube.com/watch?v=0c6znExIqRw
+
+* Save Hours Of Work With These 5 Custom React Hooks
+https://www.youtube.com/watch?v=vrIxu-kfAUo
+
+* Build and Deploy a Google Maps Travel Companion Application | React.js
+https://www.youtube.com/watch?v=UKdQjQX1Pko
+
+* MERN Auth - Login with Email (JWT) + Google OAuth Authentication | React, Node, Express, MongoDB
+https://www.youtube.com/watch?v=LKlO8vLvUao
+
+* JWT Authentication Tutorial - Node.js and React -- (Includes refresh-token logic)
+https://www.youtube.com/watch?v=Yh5Lil03tpI
+
+* The Ultimate guide to JWT client side authentication (Stop Using Local Storage !!!)
+https://www.youtube.com/watch?v=d2gfJ8UVPDo
+
+* React Website Tutorial for Beginners | Responsive React Website Using Styled Components
+https://www.youtube.com/watch?v=9_s_Essow6s
+
+* Material UI React Tutorial | Material UI Responsive Project
+https://www.youtube.com/watch?v=lKZiXQWnlUw
+
+* React Portfolio Website Tutorial | Responsive React Project Full Course for Beginners
+https://www.youtube.com/watch?v=7WwtzsSHdpI
+
+* React Blog Website Design Tutorial | React UI Full Course for Beginners
+https://www.youtube.com/watch?v=tlTdbc5byAs
+
+* MERN Stack Advanced Authentication Tutorial -- (Reset password with sending an email way)
+https://www.youtube.com/watch?v=YocRq-KesCM
+
+* Responsive Navbar Tutorial In ReactJS
+https://www.youtube.com/watch?v=nLTMn19vupw
+
+* Modal in ReactJS - Code a React Modal Tutorial using Hooks
+https://www.youtube.com/watch?v=ZCvemsUfwPQ
+
+* Snackbar / Toast Notifications in React Tutorial - React Snackbar Tutorial
+https://www.youtube.com/watch?v=uSxj3Rnu-Nk
+
+* Styled Components Full Tutorial - Style Your Components in React
+https://www.youtube.com/watch?v=-FZzPHSLauc
+
+* Search Bar in React Tutorial - Cool Search Filter Tutorial
+https://www.youtube.com/watch?v=x7niho285qs
+
+* How to Test In React - React Testing Library + Jest Tutorial
+https://www.youtube.com/watch?v=Vp_76zdHkV8
+
+* Code A React Website Tutorial | ReactJS Tutorial For Beginners
+https://www.youtube.com/watch?v=QwarZBtFoFA
+
+* Best React Folder Structures | Beginner - Intermediate - Advanced
+https://www.youtube.com/watch?v=XEO3mFvrDx0
+
+* Build Tic Tac Toe in React - Tutorial using Hooks
+https://www.youtube.com/watch?v=3P8orW_DeEw
+
+*** Build and Deploy a React Cryptocurrency App and Master Redux Toolkit in One Video
+https://www.youtube.com/watch?v=9DDX3US3kss
+
+* create React JS responsive Navbar From Scratch In Hindi 2021 | Free Code
+https://www.youtube.com/watch?v=8AJ3Kcz5FsM
+
+* Styled Components Crash Course & Project --> Traversy Media
+https://www.youtube.com/watch?v=02zO0hZmwnw
+
+* 3 Awesome React Loading Screens | Skeleton - Circular - Animated
+https://www.youtube.com/watch?v=PNQGbczXkMI
+
+* Discord Dashboard w/ React #1 - Building Our User Interface
+https://www.youtube.com/watch?v=_EEcjUVP1DQ
+
+* Redux For Beginners | Redux Tutorial with Redux Toolkit
+https://www.youtube.com/watch?v=DYtYyFOfpBY
+
+* CRUD Tutorial - ReactJS, NodeJS, MySQL [Part 1]
+https://www.youtube.com/watch?v=T8mqZZ0r-RA
+
+* Search Filter React Tutorial - Search Bar in React
+https://www.youtube.com/watch?v=mZvKPtH9Fzo
+
+* React Website using Styled Components and Smooth Scroll - Beginner Project Fully Responsive
+https://www.youtube.com/watch?v=Nl54MJDR2p8
+
+* React Sidebar Navigation Menu Tutorial - Beginner React JS Project Using Hooks & Router
+https://www.youtube.com/watch?v=CXa0f4-dWi4
+
+* React Website Responsive Tutorial - Beginner React JS Project Using Hooks and Router
+https://www.youtube.com/watch?v=3nLTB_E6XAM
+
+* How to create a Navigation Bar in React ⏸ | React Tutorial (2020)
+https://www.youtube.com/watch?v=ZlDASfsL7FI
+
+* Build Responsive Navbar with React and React Router | React Tutorials for Beginners
+https://www.youtube.com/watch?v=OX4nINHYfEs
+
+* React Navbar Dropdown Menu Responsive Tutorial - Beginner React JS Project
+https://www.youtube.com/watch?v=T2MhVxJxsL0
+
+*** React Redux Toolkit with Project | Redux Axios Tutorial | React Redux Tutorial For Beginners - 1
+https://www.youtube.com/watch?v=EnIRyNT2PMI
+
+* React Website Tutorial - Beginner React JS Project Fully Responsive
+https://www.youtube.com/watch?v=I2UBjN5ER4s
+
+* React Material UI App - Working with Filters | Hooks + Functional Components
+https://www.youtube.com/watch?v=VVhnuOKVHRs
+
+* React Food Shopping App | Using Redux + Persist + Hooks
+https://www.youtube.com/watch?v=vfcLK6POkFA
+
+* Build Notes App with React.js in Hindi | Beginner Projects
+https://www.youtube.com/watch?v=VNarNMDUCg4
+
+* Build a GitHub Jobs App With React Hooks  --> TraversyMedia with WDS
+https://www.youtube.com/watch?v=fxY1q4SCB64
+
+* React Node.js E-Commerce App Full Tutorial (REDUX - Stripe - JWT ) - MERN Stack Shopping App
+https://www.youtube.com/watch?v=y66RgYMAgSo
+
+
+
+
+
+
+
 
 
 
 PWA:
 -------------------------------------------------------------------------------------------
-* https://www.freetutorialsus.com/progressive-web-apps-pwa-the-complete-guide-3-udemy-course-free-download/
+* https://www.freetutorialsus.com/progressive-web-apps-pwa-the-complete-guide-3-udemy-course-free-download/
 * https://www.udemy.com/course/progressive-web-app-with-react-jumpstart/ 
 * 
+
+
+
+------------------------------- Most usful Youtube channels for React ----------------------------------------------------
+* Codevolution --> https://www.youtube.com/c/Codevolution/playlists
+* PedroTech --> https://www.youtube.com/c/PedroTechnologies
+* Thapa Technical --> https://www.youtube.com/c/ThapaTechnical
+* Brian Design --> https://www.youtube.com/channel/UCsKsymTY_4BYR-wytLjex7A/featured
+* Dipesh Malvia --> https://www.youtube.com/channel/UChPxqdfDbulLE9PyUqhijWw
+* Leela Web Dev --> https://www.youtube.com/c/LeelaWebDev/playlists

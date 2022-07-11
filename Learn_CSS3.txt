@@ -1,11 +1,43 @@
 * https://www.youtube.com/watch?v=1Rs2ND1ryYc --> CSS Tutorial - Zero to Hero (Complete Course)
 * https://www.youtube.com/watch?v=ZVug65gW-fc  --> How To Create Skeleton Loading Animation With CSS -- WDS
-*** https://www.youtube.com/watch?v=0gayskscLY4  --> Another 5 Must Know CSS Tricks That Almost Nobody Knows -- WDS - WOW
+* CSS Variables Tutorial --> WDS
+https://www.youtube.com/watch?v=oZPR_78wCnY
+
+* The Forgotten CSS Position --> WDS - (All about Sticky position)
+https://www.youtube.com/watch?v=NzjU1GmKosQ
+
+* How To Use Modern CSS Without Breaking Old Browsers
+https://www.youtube.com/watch?v=ZzuYbhKVPE0
+
+*** https://www.youtube.com/watch?v=0gayskscLY4  --> Another 5 Must Know CSS Tricks That Almost Nobody Knows --> WDS - WOW
+
+* 5 More Must Know CSS Tricks That Almost Nobody Knows --> WDS
+https://www.youtube.com/watch?v=pKO1ktPQByk
 
 * https://www.youtube.com/watch?v=_a5j7KoflTs  --> Sass Tutorial for Beginners - CSS With Superpowers
 
 * Sass Tutorial for Beginners - CSS With Superpowers
 https://www.youtube.com/watch?v=_a5j7KoflTs
+
+* 5+ Must Know HTML Tags That Almost Nobody Knows
+https://www.youtube.com/watch?v=iX_QyjdctsQ
+
+* CSS Smooth Scrolling, Scroll Padding and Scroll Snap
+https://www.youtube.com/watch?v=_Yi015ZC21U
+
+* Input Animations With HTML And CSS
+https://www.youtube.com/watch?v=IxRJ8vplzAo
+
+* Responsive Side Navigation Bar in HTML CSS And JavaScript | Dashboard Sidebar Menu
+https://www.youtube.com/watch?v=wEfaoAa99XY
+
+* Creating a Loading Spinner using CSS || CSS Animation || CSS
+https://www.youtube.com/watch?v=ng4ZPH21qG4
+
+* Complete CSS Media Queries under 20 Minutes in Hindi
+https://www.youtube.com/watch?v=zo-xBNOXdbg 
+
+
 
 Learn Responsive Design:
 -----------------------------------------------------------------

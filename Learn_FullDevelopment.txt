@@ -1,6 +1,9 @@
 * What is API ?
 https://www.youtube.com/watch?v=tI8ijLpZaHk
 
+* How to OVER Engineer a Website // What is a Tech Stack?
+https://www.youtube.com/watch?v=Sxxw3qtb3_g
+
 * Responsive Dropdown Sidebar Menu using HTML CSS and JavaScript | Side Navigation Bar
 https://www.youtube.com/watch?v=ES8vJcUqE7s
 
@@ -39,9 +42,34 @@ https://www.youtube.com/watch?v=9CEW3Tmx2tg
 * 5 Front-end Development Skills to Land Your First Job  --> by Mosh
 https://www.youtube.com/watch?v=-_X6PhkjpzU
 
+*** React Netflix Movie App Design Tutorial | React UI Full Course for Beginners
+https://www.youtube.com/watch?v=FzWG8jiw4XM
+React Node.js Netflix App | MERN Stack + JWT Full Tutorial
+https://www.youtube.com/watch?v=tsNswx0nRKM
 
+* How To Make A Movie Website (UI) Using HTML CSS And MaterializeCss Step By Step
+https://www.youtube.com/watch?v=OdgrjJKA_yU
 
+* Full Stack eCommerce Cart build (React, Redux, Node, Express, MongoDB)...From Scratch
+https://www.youtube.com/watch?v=0divhP3pEsg
 
+* How To Make Website Using HTML & CSS | Full Responsive Multi Page Website Design Step by Step
+https://www.youtube.com/watch?v=oYRda7UtuhA
+
+*** How To Create Advanced CSS Dropdown Menus --> by WDS
+https://www.youtube.com/watch?v=S-VeYcOCFZw
+
+* HTML and CSS Tutorial for 2021 - COMPLETE Crash Course!
+https://www.youtube.com/watch?v=D-h8L5hgW-w
+
+* How to Make a Website using HTML CSS Javascript & GSAP - Responsive with Animations
+https://www.youtube.com/watch?v=6wOolplgB5o
+
+* The Figma 2021 Crash Course by Example
+https://www.youtube.com/watch?v=Gu1so3pz4bA
+
+* Create Responsive Admin Dashboard using Html CSS & Javascript | Simple Dashboard Template Design
+https://www.youtube.com/watch?v=nUUsUAPEjFc
 
 
 
